@@ -1,7 +1,5 @@
 # Full_Stack_Task3
 Backend Development &amp; Database Integration
-# Full_Stack_Task3
-Backend Development &amp; Database Integration
 # User Management System - Complete Backend Documentation
 
 A comprehensive **PHP & MySQL** user management system with authentication, CRUD operations, role-based access, and advanced security features.
